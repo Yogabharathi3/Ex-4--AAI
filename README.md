@@ -1,7 +1,7 @@
 <H3>NAME: Yogabharathi S</H3>
 <H3>REGISTER NO. 2122222300179</H3>
 <H3>EX. NO.4</H3>
-<H3>DATE: 11.09.2024</H3>
+<H3>DATE: 19.08.2024</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
 ## Aim: 
